@@ -6,4 +6,4 @@
 - [miao-plugin](https://github.com/yoimiya-kokomi/miao-plugin) : 喵喵插件 [Gitee](https://gitee.com/yoimiya-kokomi/miao-plugin)
   / [Github](https://github.com/yoimiya-kokomi/miao-plugin)
   - [原神](https://ys.mihoyo.com/cloud/#/)
-  - [我的地址]（https://jiuzeyuli.github.io/-/）
+  - [我的地址](https://jiuzeyuli.github.io/-/)

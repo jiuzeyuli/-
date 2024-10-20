@@ -31,4 +31,4 @@ UID121357242
 - [B 站](https://space.bilibili.com/415854359?spm_id_from=333.1007.0.0)
 - [我的网站](https://jiuzeyuli.github.io/-/)
 - [原神](https://ys.mihoyo.com/cloud/#/)
-- [我的地址](https://jiuzeyuli.github.io/-/)
+- [我的地址](https://github.com/jiuzeyuli/-.git)

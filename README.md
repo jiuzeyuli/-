@@ -18,6 +18,8 @@ UID121357242
 
 # 超级喜欢刻晴
 
+![刻晴](https://github.com/jiuzeyuli/-/blob/main/ScreenShot/keqing.png)
+
 -你亲手做的耳坠？十分精巧的造型呢。
 
 原来是用纳塔的矿石做的…确实和璃月的琉璃质感很不一样。

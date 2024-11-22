@@ -18,7 +18,7 @@ UID121357242
 
 # 超级喜欢刻晴
 
-![alt text][def](https://github.com/jiuzeyuli/-/blob/main/ScreenShot/keqing.jpg)
+[alt text](https://github.com/jiuzeyuli/-/blob/main/ScreenShot/keqing.jpg)
 
 -你亲手做的耳坠？十分精巧的造型呢。
 

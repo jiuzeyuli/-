@@ -4,7 +4,6 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>原神启动</title>
-    <link rel="stylesheet" href="" />
   </head>
   <style>
     .nav {
@@ -12,22 +11,36 @@
       height: 60px; /* 设置高度 */
     }
     .hll {
-      background: ;
-      height: 80px; /* 设置高度 */
+      height: auto; /* 设置高度 */
       width: 100%; /* 设置宽度 */
       margin: 0 100%; /* 调整左右边距 */
       font-size: 22px; /* 设置字体大小 */
       color: #000000;
+      line-height: 1.7;
     }
     p {
       color: #0c0101;
     }
 
     .hh {
-      height: 80px; /* 设置高度 */
+      height: auto; /* 设置高度 */
       width: 25%; /* 设置宽度 */
       padding: 20px; /* 调整内边距 */
       font-size: 25px; /* 设置字体大小 */
+      line-height: 1.7;
+    }
+    @media (max-width: 768px) {
+      .hh {
+        width: 50%; /* 在小屏幕上调整宽度 */
+        font-size: 16px; /* 进一步减小字体大小 */
+      }
+    }
+
+    @media (max-width: 480px) {
+      .hh {
+        width: 100%; /* 在更小的屏幕上调整宽度 */
+        font-size: 14px; /* 再次减小字体大小 */
+      }
     }
   </style>
 
